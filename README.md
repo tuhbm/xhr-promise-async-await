@@ -3,4 +3,4 @@
 
 ## promise
 
-## async & awiat
+## async & await
